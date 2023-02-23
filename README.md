@@ -1,3 +1,5 @@
+## NOTE - first-react-app is a trial, where I am making my first steps in react, using create-react-app, then downloaded a free html tamplate(incl. html, css, iamges, js etc. files) and trying to refactor it with react by editing the html to jsx-syntax and dividing the html to components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
